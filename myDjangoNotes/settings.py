@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     # APPS CREATED BY USER
     'api.apps.ApiConfig',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
